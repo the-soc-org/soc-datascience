@@ -1,19 +1,19 @@
 
 # The School of Commonwealths
 
-The innovative model of the education system in which traditional classroom-based activities are
-transformed into globally connected communication systems (Pierzchalski, 2022). These systems are
-created by linking academic classes with similar topics between any universities worldwide. The
-linking is facilitated using GitHub. In the proposed model, students still study in the halls of the
-university but additionally use the GitHub service to communicate with each other, involving the
-review of assignments/projects analogous to the work of scientists who review each other's
-publications. In this way, students develop critical thinking and foster a culture of
-collaboration. For the new school to function, there is a need for materials that could be utilized
-by lecturers from the combined universities. This website contains materials and instructions to start
-the School of Commonwealths.
+The School of Commonwealths is an innovative model of the education system in which traditional
+classroom-based activities are transformed into globally connected communication systems
+(Pierzchalski, 2022). These systems are created by linking academic classes with similar topics
+between any universities worldwide. The linking is facilitated using GitHub. In the proposed model,
+students still study in the halls of the university but additionally use the GitHub service to
+communicate with each other, involving the review of assignments/projects analogous to the work of
+scientists who review each other’s publications. In this way, students develop critical thinking and
+foster a culture of collaboration. 
 
+To effectively start and manage the School of Commonwealths, you will need the GitHub CLI extension
+[SoC](https://github.com/pierzcham/gh-soc).
 
-# The course schedule template
+## The course schedule template
 
 |Date     | Topic                  | Repository      | Submission Deadline | Lecture notes|
 |:---------------:|:----------------------:|:------------------:|:-------------------------:|:-----:|
@@ -33,14 +33,20 @@ the School of Commonwealths.
 |26.01       | Text analysis  <br/> Work on projects      |     [soc-datascience-wrapup](https://github.com/pierzcham/soc-datascience-wrapup)| 02.01| [Text analysis](./slides/u5-d01-text-analysis/u5-d01-text-analysis.html) <br/> [Comparing texts](./slides/u5-d02-comparing-texts/u5-d02-comparing-texts.html) <br/> [Interactive web apps](./slides/u5-d03-interactive-web-app/u5-d03-interactive-web-app.html) <br/> [Machine learning](./slides/u5-d04-machine-learning/u5-d04-machine-learning.html)|
 |02.02       | Bayesian inference       |     projects presentations |    | [Interactive data visualization](./slides/u5-d05-shiny-1/u5-d05-shiny-1.pdf) <br/> [Interactive data visualization and reporting](./slides/u5-d06-shiny-2/u5-d06-shiny-2.pdf) <br/> [Bayesian inference](./slides/u5-d07-bayes-inf/u5-d07-bayes-inf.html)|
 
-# Library
+## Library
 
 - R for Data Science (2e): <https://r4ds.hadley.nz/>
 - Statistical Inference via Data Science: <https://moderndive.com/index.html>
 - Posit Cheatsheets: <https://posit.co/resources/cheatsheets/>
 - Git Guide: <https://github.com/git-guides>
 
-# Licence
+## References
+
+Pierzchalski, M. (2022). Szkoła Rzeczypospolitych [Polish version].  In A. B. Kwiatkowska &
+M. M. Sysło (Eds.), Informatyka w edukacji (pp. 128–138).  Wydawnictwo Adam
+Marszałek. https://iwe.mat.umk.pl/materials/art2022/16.pdf. English version: [ADD LINK TO ZENODO]
+
+## Licence
 
 Materials are madified version of [datasciencebox](https://github.com/tidyverse/datascience-box) under [Creative Commons Attribution-ShareAlike 4.0
 International Public License](https://creativecommons.org/licenses/by-sa/4.0/)

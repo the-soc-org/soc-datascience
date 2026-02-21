@@ -11,7 +11,7 @@ scientists who review each other’s publications. In this way, students develop
 foster a culture of collaboration. 
 
 To effectively start and manage the School of Commonwealths, you will need the GitHub CLI extension
-[SoC](https://github.com/the-soc-org/gh-soc).
+[SoC](https://the-soc-org.github.io/gh-soc/).
 
 ## The course schedule template
 
